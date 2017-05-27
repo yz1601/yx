@@ -1,3 +1,3 @@
 # yx
-yx system 
-3D mind map
+yx 系统 
+形态的可视化及接口
