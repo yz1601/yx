@@ -1,5 +1,5 @@
 # yx  
-####### 本.md语法说明，参见创始人John Gruber的 https://daringfireball.net/projects/markdown/ 或中文http://wowubuntu.com/markdown/
+###### 本.md语法说明，参见创始人John Gruber的https://daringfireball.net/projects/markdown/ 或中文http://wowubuntu.com/markdown/
 
 yx 系统  
 思维的可视化  
