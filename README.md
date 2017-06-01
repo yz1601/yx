@@ -13,7 +13,7 @@ NL（人文）-PR（S）-VT（Y）-Ma（1）-CL（>）-PO（T）-ma（m）=>CDS=
 考量对对象在不同维度与生命周期的呈现  
 导向，训练，测评，分析，鉴定  
   
-基于社群的大规模自组织实现生成，融合，竞争，迭代  
+基于社群的大规模自组织实现生成，融合，竞争，迭代  
 鉴于广义空间下的自然语义的Kurt Gödel的理论，当工具集的完备性制约工具集的适用性及效率时，适用性优先        
 
 ###### 本.md语法说明，参见创始人John Gruber的https://daringfireball.net/projects/markdown/ 或中文http://wowubuntu.com/markdown/
